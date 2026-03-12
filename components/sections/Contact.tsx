@@ -21,14 +21,14 @@ const contactLinks = [
     icon: Linkedin,
     label: 'LinkedIn',
     value: 'Connect on LinkedIn',
-    href: 'https://linkedin.com',
+    href: 'https://www.linkedin.com/in/krupal-jada-385110235',
     gradient: 'from-cyan-500 to-purple-500',
   },
   {
     icon: Github,
     label: 'GitHub',
     value: 'View my repositories',
-    href: 'https://github.com',
+    href: 'https://github.com/jk-coder-2002',
     gradient: 'from-purple-500 to-pink-500',
   },
 ];

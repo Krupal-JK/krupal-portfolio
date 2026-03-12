@@ -123,7 +123,11 @@ export function Hero() {
                 className="border-purple-500/50 text-purple-400 hover:bg-purple-500/10 px-8 py-6 text-lg rounded-xl backdrop-blur-sm"
                 asChild
               >
-                <a href="/Krupal_Resume.pdf" download>
+                <a
+                  href="https://drive.google.com/file/d/1s_h2rkgTN5Hz-No-3Yc_szZdbvOaGGYc/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Download Resume
                 </a>
               </Button>
